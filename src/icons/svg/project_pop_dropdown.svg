@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>project_pop_dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="后台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1.2项目管理-项目信息维护-新增" transform="translate(-847.000000, -636.000000)" fill-rule="nonzero">
+            <g id="弹出">
+                <g id="编组-9" transform="translate(428.000000, 380.000000)">
+                    <g id="编组-7" transform="translate(69.000000, 92.000000)">
+                        <g id="编组-6备份-2" transform="translate(0.000000, 146.000000)">
+                            <g id="project_pop_dropdown" transform="translate(350.000000, 16.000000)">
+                                <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="10" height="10"></rect>
+                                <path d="M5.62565523,7.73572954 L9.74039234,3.53962654 C9.99432898,3.28075855 10.0695367,2.89473684 9.93239321,2.55648548 C9.79524973,2.21915625 9.47239725,2 9.11503771,2 L0.884688533,2 C0.527309325,2 0.204329045,2.22005833 0.0672642094,2.55648548 C0.022139579,2.6683138 0,2.78561477 0,2.90198358 C0,3.13647526 0.0902197676,3.3673586 0.25919627,3.53965661 L4.37488699,7.73573956 C4.54115012,7.90523108 4.76588847,8 5.00035959,8 C5.2347324,8 5.46040471,7.90442923 5.62581253,7.73573956 L5.62565523,7.73573956 L5.62565523,7.73572954 Z" id="路径" fill="#CDCDCD"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

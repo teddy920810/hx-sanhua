@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="6px" viewBox="0 0 9 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>screen_icon_dropup</title>
+    <desc>Created with Sketch.</desc>
+    <g id="后台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.1.1项目管理-项目信息维护" transform="translate(-683.000000, -173.000000)" fill-rule="nonzero">
+            <g id="编组-9" transform="translate(259.000000, 90.000000)">
+                <g id="编组-27" transform="translate(36.000000, 81.000000)">
+                    <g id="编组-6" transform="translate(208.000000, 0.000000)">
+                        <g id="screen_icon_dropup" transform="translate(184.000000, 5.000000) scale(1, -1) translate(-184.000000, -5.000000) translate(179.000000, 0.000000)">
+                            <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="10" height="10"></rect>
+                            <path d="M9.80503476,3.28344932 L5.95525268,7.78006319 C5.8402292,7.91986473 5.67442053,8 5.50017566,8 C5.32591698,8 5.16009164,7.91987581 5.04505905,7.78006319 L1.19527696,3.28344932 C1.00734436,3.07143197 0.949266907,2.76240389 1.04639593,2.48946275 C1.14352496,2.21652161 1.37794328,2.02592592 1.65037377,2 L9.34679007,2 C9.62026985,2.02481571 9.85571767,2.21426948 9.95286649,2.48835254 C10.0510646,2.76241447 9.99299705,3.07029005 9.80503476,3.28344932 Z" id="路径" fill="#A2A7B1"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
